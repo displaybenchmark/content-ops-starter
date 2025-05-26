@@ -14,7 +14,7 @@
     "primaryLinks": [
         {
             "label": "Home",
-            "url": "/pricing",
+            "url": "https://helpseeker.co",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
