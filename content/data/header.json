@@ -13,8 +13,8 @@
     },
     "primaryLinks": [
         {
-            "label": "Pricing",
-            "url": "/pricing",
+            "label": "Home",
+            "url": "https://helpseeker.co",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
@@ -30,45 +30,59 @@
             "type": "Link"
         },
         {
-            "label": "Careers",
-            "altText": "Careers page",
-            "url": "/careers",
+            "label": "About",
+            "altText": "About us page",
+            "url": "/about-us",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
             "type": "Link"
         },
         {
-            "label": "Dropdown",
-            "altText": "Dropdown",
+            "label": "Categories",
+            "altText": "categories",
             "links": [
                 {
-                    "label": "Dropdown item",
-                    "url": "/",
+                    "label": "Technology",
+                    "url": "/technology",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
-                    "type": "Link"
+                    "type": "Link",
+                    "altText": "technology"
                 },
                 {
-                    "label": "Dropdown item",
-                    "url": "/",
+                    "label": "Business",
+                    "url": "/Business",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
-                    "type": "Link"
+                    "type": "Link",
+                    "altText": "Business"
                 },
                 {
-                    "label": "Dropdown item",
-                    "url": "/",
+                    "label": "Finance",
+                    "url": "/Finance",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
-                    "type": "Link"
+                    "type": "Link",
+                    "altText": "Finance page"
                 }
             ],
             "labelStyle": "secondary",
             "type": "SubNav"
+        },
+        {
+            "type": "Link",
+            "label": "Contact",
+            "altText": "contact page",
+            "url": "/contact",
+            "showIcon": false,
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "primary",
+            "elementId": ""
         }
     ],
     "secondaryLinks": [],
