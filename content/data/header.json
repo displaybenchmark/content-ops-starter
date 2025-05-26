@@ -44,7 +44,7 @@
             "links": [
                 {
                     "label": "Technology",
-                    "url": "/",
+                    "url": "/technology",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
