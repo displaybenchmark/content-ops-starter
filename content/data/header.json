@@ -62,7 +62,7 @@
                 },
                 {
                     "label": "Finance",
-                    "url": "/",
+                    "url": "/Finance",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
