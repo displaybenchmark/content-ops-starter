@@ -53,7 +53,7 @@
                 },
                 {
                     "label": "Business",
-                    "url": "/",
+                    "url": "/Business",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
