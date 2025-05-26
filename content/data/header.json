@@ -40,7 +40,7 @@
         },
         {
             "label": "Categories",
-            "altText": "Dropdown",
+            "altText": "categories",
             "links": [
                 {
                     "label": "Dropdown item",
