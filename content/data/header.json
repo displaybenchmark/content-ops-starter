@@ -43,7 +43,7 @@
             "altText": "categories",
             "links": [
                 {
-                    "label": "Dropdown item",
+                    "label": "Technology",
                     "url": "/",
                     "icon": "arrowRight",
                     "iconPosition": "right",
