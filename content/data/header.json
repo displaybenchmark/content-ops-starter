@@ -1,14 +1,14 @@
 {
     "logo": {
-        "altText": "Helpseeker.co",
+        "type": "ImageBlock",
+        "url": "/images/hero2.svg",
+        "altText": "Image alt text placeholder",
+        "elementId": "",
         "styles": {
             "self": {
-                "margin": [
-                    "mr-3"
-                ]
+                "borderRadius": "medium"
             }
-        },
-        "type": "ImageBlock"
+        }
     },
     "primaryLinks": [
         {
